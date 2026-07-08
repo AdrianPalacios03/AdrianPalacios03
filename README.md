@@ -65,13 +65,3 @@
    
   </p>
 </div>
-
-
-
-
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPalacios03&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
-  </a>
-</div> 
